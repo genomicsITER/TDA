@@ -25,11 +25,15 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 # Table of contents #
 <ul>
-  <li><a href="#Books"></a></li>
-  <li><a href="#Conferences and Meetings"></a></li>
+  <li><a href="#Books">Books</a></li>
+  <li><a href="#Conferences and Meetings">Conferences and Meetings</a></li>
   <li><a href="#Media">Media</a></li>
   <li><a href="#People and Groups">People and Groups</a></li>
   <li><a href="#Software">Software</a></li>
+  <ul>
+      <li><a href="#OpenSource Software">OpenSource Software</a></li>
+      <li><a href="#Commercial Software">CommercialSoftware</a></li>
+  </ul>
   <li><a href="#Tutorials">Tutorials</a></li>
   <li><a href="#Videos">Videos</a></li>
   <li><a href="#Workshops and Courses">Workshops</a></li>
@@ -129,12 +133,13 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-<hr>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Software">Software</a>
-## Software ##
+<a name="Scientific Literature">Scientific Literature</a>
+## Scientific Literature ##
 > Section to show ...
 
 []()
@@ -152,7 +157,37 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
+
 <hr>
+<!-- ------------------ SECTION ------------------ -->
+<a name="Software">Software</a>
+## Software ##
+> Section to show ...
+
+[]()
+[]()
+[]()
+[]()
+
+### OpenSource Software ###
+
+### Commercia Software ###
+
+<ul>
+<li><a href="">Item1</a></li>
+<li><a href="">Item2</a></li>
+</ul>
+
+<p align="right">
+  <a href="#TDA" title="Up">
+    <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+<hr>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -177,6 +212,8 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </p>
 <hr>
 
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Videos">Videos</a>
@@ -200,6 +237,8 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </p>
 <hr>
 
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Workshops and Courses">Workshops and Courses</a>
@@ -221,29 +260,8 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-<hr>
 
-<hr>
-<!-- ------------------ SECTION ------------------ -->
-<a name="Scientific Literature">Scientific Literature</a>
-## Scientific Literature ##
-> Section to show ...
 
-[]()
-[]()
-[]()
-[]()
-
-<ul>
-<li><a href="">Item1</a></li>
-<li><a href="">Item2</a></li>
-</ul>
-
-<p align="right">
-  <a href="#TDA" title="Up">
-    <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->

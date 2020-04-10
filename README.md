@@ -32,7 +32,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
   <li><a href="#Software">Software</a></li>
   <ul>
       <li><a href="#OpenSource Software">OpenSource Software</a></li>
-      <li><a href="#Commercial Software">CommercialSoftware</a></li>
+      <li><a href="#Commercial Software">Commercial Software</a></li>
   </ul>
   <li><a href="#Tutorials">Tutorials</a></li>
   <li><a href="#Videos">Videos</a></li>
@@ -46,7 +46,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Books">Books</a>
+<a name="Books"></a>
 
 ## Books ##
 
@@ -73,7 +73,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Conferences and Meetings">Conferences and Meetings</a>
+<a name="Conferences and Meetings"></a>
 
 ## Books ##
 
@@ -99,7 +99,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Media">Media</a>
+<a name="Media"></a>
 
 ## Media ##
 
@@ -125,7 +125,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="People and Groups">People and Groups</a>
+<a name="People and Groups"></a>
 
 ## People and Groups ##
 
@@ -152,7 +152,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Scientific Literature">Scientific Literature</a>
+<a name="Scientific Literature"></a>
 
 ## Scientific Literature ##
 
@@ -179,7 +179,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Software">Software</a>
+<a name="Software"></a>
 
 ## Software ##
 
@@ -191,9 +191,11 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 []()
 []()
 
+<a name="OpenSource Software"></a>
 ### OpenSource Software ###
 
-### Commercia Software ###
+<a name="CommercialSoftware"></a>
+### Commercial Software ###
 
 <ul>
 <li><a href="">Item1</a></li>
@@ -211,7 +213,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Tutorials">Tutorials</a>
+<a name="Tutorials"></a>
 
 ## Tutorials ##
 
@@ -239,7 +241,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Videos">Videos</a>
+<a name="Videos"></a>
 
 ## Videos ##
 
@@ -267,7 +269,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
-<a name="Workshops and Courses">Workshops and Courses</a>
+<a name="Workshops and Courses"></a>
 
 ## Workshops and Courses ##
 

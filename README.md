@@ -49,6 +49,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 ## Books ##
 > Section to show ...
 
+
 []()
 []()
 []()
@@ -71,6 +72,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="Conferences and Meetings">Conferences and Meetings</a>
 ## Books ##
 > Section to show ...
+
 
 []()
 []()
@@ -95,6 +97,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 ## Media ##
 > Section to show ...
 
+
 []()
 []()
 []()
@@ -117,6 +120,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="People and Groups">People and Groups</a>
 ## People and Groups ##
 > Section to show ...
+
 
 []()
 []()
@@ -142,6 +146,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 ## Scientific Literature ##
 > Section to show ...
 
+
 []()
 []()
 []()
@@ -165,6 +170,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="Software">Software</a>
 ## Software ##
 > Section to show ...
+
 
 []()
 []()
@@ -195,6 +201,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 ## Tutorials ##
 > Section to show ...
 
+
 []()
 []()
 []()
@@ -220,6 +227,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 ## Videos ##
 > Section to show ...
 
+
 []()
 []()
 []()
@@ -244,6 +252,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="Workshops and Courses">Workshops and Courses</a>
 ## Workshops and Courses ##
 > Section to show ...
+
 
 []()
 []()

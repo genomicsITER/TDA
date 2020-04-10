@@ -194,6 +194,18 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="OpenSource Software"></a>
 ### OpenSource Software ###
 
+<ul>
+<li><a href="">Item1</a></li>
+<li><a href="">Item2</a></li>
+</ul>
+
+<p align="right">
+  <a href="#TDA" title="Up">
+    <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+<hr>
+
 <a name="Commercial Software"></a>
 ### Commercial Software ###
 

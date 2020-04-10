@@ -219,7 +219,6 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-<hr>
 
 
 
@@ -247,7 +246,6 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-<hr>
 
 
 
@@ -275,7 +273,6 @@ A public repository of Topological Data Analysis resources maintained by ITER.
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-<hr>
 
 
 
@@ -321,6 +318,8 @@ A public repository of Topological Data Analysis resources maintained by ITER.
   </a>
 </p>
 
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
@@ -337,6 +336,8 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </p>
 
 Last update: --:-- GMT - ---- --, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/TDA/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->

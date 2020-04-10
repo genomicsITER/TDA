@@ -70,7 +70,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Conferences and Meetings">Conferences and Meetings</a>
+
 ## Books ##
+
 > Section to show ...
 
 
@@ -94,7 +96,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Media">Media</a>
+
 ## Media ##
+
 > Section to show ...
 
 
@@ -118,7 +122,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="People and Groups">People and Groups</a>
+
 ## People and Groups ##
+
 > Section to show ...
 
 
@@ -143,7 +149,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Scientific Literature">Scientific Literature</a>
+
 ## Scientific Literature ##
+
 > Section to show ...
 
 
@@ -168,7 +176,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Software">Software</a>
+
 ## Software ##
+
 > Section to show ...
 
 
@@ -198,7 +208,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Tutorials">Tutorials</a>
+
 ## Tutorials ##
+
 > Section to show ...
 
 
@@ -224,7 +236,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Videos">Videos</a>
+
 ## Videos ##
+
 > Section to show ...
 
 
@@ -250,7 +264,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Workshops and Courses">Workshops and Courses</a>
+
 ## Workshops and Courses ##
+
 > Section to show ...
 
 
@@ -275,7 +291,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 <a name="Acknowledgements"></a>
+
 ## Acknowledgements ##
+
 > Section to highlight the contributors of many links within this repository.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 
@@ -289,7 +307,9 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Contact us"></a>
+
 ## Contact us ##
+
 > Want to contact us? Please, send me a Direct Message on Twitter (see below).
 
  <p align="left">
@@ -304,7 +324,9 @@ Last update: --:-- GMT - ---- --, 2020     |     By JMLS <a href="https://twitte
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Update logs"></a>
+
 ## Update logs ##
+
 > April --, 2020 updates: .
 
 <p align="right">

@@ -56,7 +56,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -79,7 +79,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -102,7 +102,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -125,7 +125,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -148,7 +148,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -171,7 +171,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -194,7 +194,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -217,7 +217,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -240,7 +240,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 </ul>
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -253,7 +253,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -271,7 +271,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
   </a>
 </p>
 
-Last update: --:-- GMT - ---- --, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: --:-- GMT - ---- --, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/TDA/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -281,7 +281,7 @@ Last update: --:-- GMT - ---- --, 2020     |     By JMLS <a href="https://twitte
 > April --, 2020 updates: .
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#TDA" title="Up">
     <img src="https://github.com/genomicsITER/TDA/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>

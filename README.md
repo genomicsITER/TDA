@@ -194,7 +194,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 <a name="OpenSource Software"></a>
 ### OpenSource Software ###
 
-<a name="CommercialSoftware"></a>
+<a name="Commercial Software"></a>
 ### Commercial Software ###
 
 <ul>

@@ -45,8 +45,11 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
+
 <a name="Books">Books</a>
+
 ## Books ##
+
 > Section to show ...
 
 
@@ -69,11 +72,12 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
+
 <a name="Conferences and Meetings">Conferences and Meetings</a>
 
 ## Books ##
 
-> Section to show ...
+> Section
 
 
 []()
@@ -99,7 +103,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 ## Media ##
 
-> Section to show ...
+> Section
 
 
 []()
@@ -125,7 +129,7 @@ A public repository of Topological Data Analysis resources maintained by ITER.
 
 ## People and Groups ##
 
-> Section to show ...
+> Section to show...
 
 
 []()
